@@ -2,9 +2,6 @@
 
 A real-time transit monitoring application that tracks route performance, delays, and provides intelligent alerts for public transportation systems.
 
-![Transit Monitor Dashboard](screenshots/dashboard.png)
-*Real-time route monitoring dashboard with performance analytics*
-
 ## 📋 Table of Contents
 
 - [Overview](#overview)
